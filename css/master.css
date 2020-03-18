@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,900&display=swap');
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+:root {
+  --main-color: #673AB7;
+}
+
+.navbar-light .navbar-nav .nav-link,
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .active > .nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active
+ {
+  color : var(--main-color);
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.navbar-expand-lg {
+  justify-content: space-between;
+}
+
+.navbar-collapse {
+  flex-grow: 0;
+}
+
+footer {
+  background: var(--main-color);
+}
+
+
+
+
+/*-----  OTHER STUFF ------*/
+
+.hero {
+  border-top: 1px solid #000;
+  border-bottom : 1px solid #000;
+}

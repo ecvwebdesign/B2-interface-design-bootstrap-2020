@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="34px" viewBox="0 0 300 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-9" transform="translate(2.000000, 2.000000)" stroke-width="3">
+            <path d="M0,15 C0,15 0,14.6867037 0,14.3165034 L0,0.683496594 C0,0.306011849 0.313296318,0 0.683496594,0 L14.3165034,0 C14.6939882,0 15.3132963,0 15.6834966,0 L29.3165034,0 C29.6939882,0 30,0.313296318 30,0.683496594 L30,14.3165034 C30,14.6939882 30,15.3132963 30,15.6834966 L30,29.3165034 C30,29.6939882 29.6867037,29.998409 29.3165034,29.9965291 L15.6834966,29.927299" id="Rectangle-7" stroke="#673AB7" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.000000, 15.000000) rotate(180.000000) translate(-15.000000, -15.000000) "></path>
+            <path d="M19.5,0 C19.5,0 19.8029208,0 20.1889343,0 L29.3110657,0 C29.6915536,0 30,0.300910324 30,0.670047998 L30,10.579952 M17.3232422,13.1285156 L29.8297475,0.20423685" id="Rectangle-7" stroke="#FFC107" stroke-linecap="round" stroke-linejoin="round"></path>
+            <rect id="Rectangle-7" stroke="#673AB7" x="0" y="15" width="15" height="15" rx="0.68"></rect>
+        </g>
+        <text id="ECV-|-Device-Lab" font-family="Helvetica" font-size="29.0322581" font-weight="normal" fill="#4A4A4A" fill-opacity="0.87">
+            <tspan x="41" y="26">ECV | Device  Lab</tspan>
+        </text>
+    </g>
+</svg>
